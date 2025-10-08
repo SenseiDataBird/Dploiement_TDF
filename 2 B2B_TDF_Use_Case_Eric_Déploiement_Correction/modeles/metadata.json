@@ -1,0 +1,12 @@
+{
+    "date_entrainement": "2025-10-08 09:55:44",
+    "mae": 21.856958389867508,
+    "r2": 0.6023612313308558,
+    "features": [
+        "phase",
+        "client",
+        "macro_produit",
+        "produit",
+        "mois_creation"
+    ]
+}
